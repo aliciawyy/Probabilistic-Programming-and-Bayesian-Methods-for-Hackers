@@ -19,4 +19,5 @@ matplotlib.rcParams.update(s)
 from IPython.core.pylabtools import figsize
 import numpy as np
 from matplotlib import pyplot as plt
+import seaborn.apionly as sns
 import scipy.stats as stats
